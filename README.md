@@ -1,15 +1,26 @@
-# 🎧 Hip-Hop Mashup GitHub Page
+# 🎧 Hip-Hop Mashup – GitHub Pages Website
 
-This repository hosts a simple, clean **GitHub Pages website** that embeds a TikTok music track.
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-The site features:
-- 🎶 TikTok music embed
-- 🌙 Dark-themed modern design
-- 📱 Mobile & desktop responsive layout
-- 🌐 Hosted using GitHub Pages
+A modern **GitHub Pages website** that embeds a TikTok music track using TikTok’s official embed system.  
+Designed to be fast, responsive, and easy to customize.
 
 ---
 
-## 🔗 Live Website
+## 🌐 Live Demo
 
-Once GitHub Pages is enabled, your site will be available at:
+👉 **https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/**
+
+> Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your actual GitHub details.
+
+---
+
+## 🖼️ Preview
+
+> Add a screenshot of your website here:
+
+```md
+![Website Preview](preview.png)
